@@ -1,0 +1,7 @@
+﻿  editor.cpp
+  lab5.cpp
+  shape.cpp
+  shape_editor.cpp
+C:\Users\dadai\OneDrive\Рабочий стол\Тут все папки\Учеба\С++\lab5\shape_editor.cpp(178,31): warning C4018: '<': signed/unsigned mismatch
+  Generating Code...
+  lab5.vcxproj -> C:\Users\dadai\OneDrive\Рабочий стол\Тут все папки\Учеба\С++\lab5\x64\Debug\lab5.exe
